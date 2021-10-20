@@ -93,8 +93,8 @@ def label_image(source_dir, dest_dir, mode):
 folder = 'put your folder name'
 label = [1] # put your label number, ex) 0, 1, 2 ...
 
-source_dir=rf'D:/00_TeamProject/_data/{folder}/images' # directory with files label
-dest_dir=rf'D:/00_TeamProject/_data/{folder}/label_pic' # directory where labeled images get stored
-text_dir=rf'D:/00_TeamProject/_data/{folder}/labels' # directory where label and x,y,w,h txt files get stored
+source_dir=rf'D:/.../{folder}/images' # directory with files label
+dest_dir=rf'D:/.../{folder}/label_pic' # directory where labeled images get stored
+text_dir=rf'D:/.../{folder}/labels' # directory where label and x,y,w,h txt files get stored
 
 uncropped_files_list=label_image(source_dir, dest_dir,1) 
