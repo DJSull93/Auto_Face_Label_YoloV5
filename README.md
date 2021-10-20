@@ -1,7 +1,7 @@
 # Auto_Face_Label_YoloV5
 
 this python file will make your labeling easier!
-# it will create only one person's label
+it will create only one person's label
 
 
 1. add your derectories and run .py file
